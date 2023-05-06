@@ -1,2 +1,2 @@
-# passwordgen
-Password Generator using Python
+# Password generator
+I made Password Generator using Python
